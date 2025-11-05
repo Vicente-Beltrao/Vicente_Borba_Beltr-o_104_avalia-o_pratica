@@ -1,0 +1,23 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Helvetica', sans-serif;
+    text-align: center;
+}
+
+.galeria {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+footer {
+    margin-top: 30px;
+    font-size: 14px;
+    color: #333;
+}
